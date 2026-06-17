@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CarvajalApplication<carvajal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.yennifer.carvajal.CarvajalApplication",
+            "projectName": "carvajal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
